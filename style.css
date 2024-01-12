@@ -1,0 +1,37 @@
+.my-list {
+  list-style-type: none;
+  color: red;
+  text-decoration: underline;
+  border-bottom: 5px solid blue;
+}
+
+#first-p {
+  font-size: 20px;
+  color: blue;
+}
+
+.league-standings {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+/* the below is table styling */
+.league-standings td,
+th {
+  border: 2px solid black;
+  padding: 10px 12px;
+  /* padding-left: 10px;
+  padding-top: 12px;
+  padding-right: 13px;
+  padding-bottom: 12px; */
+}
+
+/* table {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 2px solid black;
+} */
